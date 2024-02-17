@@ -1,2 +1,3 @@
-# Wallpaper-App-
-Basically it's a wallpaper app using pexels api using flutter sdk
+HI! 
+Basically it's a WallPaper App! Which have functionallity to search anything from the internet and provide the succesfull result.
+I am using PEXELS api during the development of wallpaper app.
